@@ -1,0 +1,13 @@
+{
+    "name": "lucifer/timezones",
+    "description": "my first-packages to show time",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cheran1993",
+            "email": "cheran.chandran@tesark.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
